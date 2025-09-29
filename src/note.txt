@@ -1,0 +1,21 @@
+comfirm.equals("<string>")                     [comparing string validition]
+
+random class
+
+next()
+nextint() +1 +2 +number
+nextDouble()
+
+
+System
+System.out
+System.out.print()
+System.out.println()
+System.err.println()
+
+Scanner
+/n
+/t                                               [tap]
+
+array(cont'd)
+
