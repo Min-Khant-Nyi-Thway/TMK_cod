@@ -1,0 +1,17 @@
+(1) Which is a property of a good algorithm?
+
+    (a) It should produce the correct output
+    (b) It should take infinite time
+    (c) It should be confusing
+    (d) it should use no memory
+
+    corret answer is (a)
+
+(2) What is the correct definition of an array?
+
+    (a) A data structure that hold a fixed number of values of diffenent data types.
+    (b) A variable that stores only integer values. 
+    (c) A collection of elements stored at contiguous memory locations and accessed using an index.
+    (d) A function that returns multiple values.
+
+abscending order = small -> mid -> large

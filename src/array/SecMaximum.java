@@ -19,6 +19,7 @@ public class SecMaximum {
         //find second maximum
         int max1 = num[0]; //10
         int max2 = -1; 
+        // for (int i = 1; i < size; i++) { // also correct
         for (int i = 0; i < size; i++) { 
             if (num[i] > max1) {
                 max2 = max1; //10,17
